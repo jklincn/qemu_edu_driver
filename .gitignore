@@ -1,0 +1,21 @@
+# module
+*.cmd
+Module.symvers
+modules.order
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.o
+
+# user_test
+user_test
+
+# .cache
+.cache
+
+# libedu.so
+*.so
+
+# edu_lib/test
+test
